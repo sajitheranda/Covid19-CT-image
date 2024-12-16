@@ -8,6 +8,7 @@ This project implements a deep learning pipeline for classifying CT images into 
 2. [Initial Model Development](#initial-model-development)
 3. [Model Performance Using Data Augmentation](#model-performance-using-data-augmentation)
 4. [Transfer Learning](#transfer-learning)
+5. [Results](#results)
 
 ---
 
@@ -135,9 +136,19 @@ Fine-tuning a pre-trained model for better performance on the small dataset is t
 
 ---
 
-## Results
-- **Training Accuracy:** (To be updated after training)
-- **Validation Accuracy:** (To be updated after training)
+## 5. Results
+
+### 5.1 Training and Validation Accuracy and Loss
+The model's accuracy and loss over the epochs are visualized below:
+
+
+### 5.2 Confusion Matrix
+The confusion matrix highlights the classification performance:
+
+
+### 5.3 Dataset Distribution
+The distribution of positive and negative samples is illustrated below:
+
 
 ---
 
