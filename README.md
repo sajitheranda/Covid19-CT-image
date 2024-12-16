@@ -141,14 +141,28 @@ Fine-tuning a pre-trained model for better performance on the small dataset is t
 ### 5.1 Training and Validation Accuracy and Loss
 The model's accuracy and loss over the epochs are visualized below:
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6b06d1fe-71e7-4cdb-b42d-5a91803f1e96" alt="Gas Cylinder Presentation" height="400">
+  <p><em>Figure 1: Training and Validation Accuracy and Loss </em></p>
+</div>
+
 
 ### 5.2 Confusion Matrix
 The confusion matrix highlights the classification performance:
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6b06d1fe-71e7-4cdb-b42d-5a91803f1e96" alt="Gas Cylinder Presentation" height="400">
+  <p><em>Figure 2: Training and Validation Accuracy and Loss </em></p>
+</div>
 
 
 ### 5.3 Dataset Distribution
 The distribution of positive and negative samples is illustrated below:
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6b06d1fe-71e7-4cdb-b42d-5a91803f1e96" alt="Gas Cylinder Presentation" height="400">
+  <p><em>Figure 3: Training and Validation Accuracy and Loss </em></p>
+</div>
 
 ---
 
