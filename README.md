@@ -142,7 +142,7 @@ Fine-tuning a pre-trained model for better performance on the small dataset is t
 The model's accuracy and loss over the epochs are visualized below:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6b06d1fe-71e7-4cdb-b42d-5a91803f1e96" alt="Gas Cylinder Presentation" height="400">
+  <img src="https://github.com/user-attachments/assets/a02d0159-187d-4955-ae9b-e45ce66e93fe" alt="Gas Cylinder Presentation" height="400">
   <p><em>Figure 1: Training and Validation Accuracy and Loss </em></p>
 </div>
 
@@ -151,7 +151,7 @@ The model's accuracy and loss over the epochs are visualized below:
 The confusion matrix highlights the classification performance:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6b06d1fe-71e7-4cdb-b42d-5a91803f1e96" alt="Gas Cylinder Presentation" height="400">
+  <img src="https://github.com/user-attachments/assets/579d0151-ca20-4b89-8d34-8a71d6f0e6f8" alt="Gas Cylinder Presentation" height="400">
   <p><em>Figure 2: Training and Validation Accuracy and Loss </em></p>
 </div>
 
@@ -160,7 +160,7 @@ The confusion matrix highlights the classification performance:
 The distribution of positive and negative samples is illustrated below:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6b06d1fe-71e7-4cdb-b42d-5a91803f1e96" alt="Gas Cylinder Presentation" height="400">
+  <img src="https://github.com/user-attachments/assets/4d65af40-bd3f-47f4-813b-66f82d720a3c" alt="Gas Cylinder Presentation" height="400">
   <p><em>Figure 3: Training and Validation Accuracy and Loss </em></p>
 </div>
 
